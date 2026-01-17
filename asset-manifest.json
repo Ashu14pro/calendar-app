@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ashu14pro/calendar-app/static/css/main.75509cb6.css",
-    "main.js": "/Ashu14pro/calendar-app/static/js/main.3a392231.js",
-    "static/js/453.441618f5.chunk.js": "/Ashu14pro/calendar-app/static/js/453.441618f5.chunk.js",
-    "index.html": "/Ashu14pro/calendar-app/index.html",
-    "main.75509cb6.css.map": "/Ashu14pro/calendar-app/static/css/main.75509cb6.css.map",
-    "main.3a392231.js.map": "/Ashu14pro/calendar-app/static/js/main.3a392231.js.map",
-    "453.441618f5.chunk.js.map": "/Ashu14pro/calendar-app/static/js/453.441618f5.chunk.js.map"
+    "main.css": "/calendar-app/static/css/main.75509cb6.css",
+    "main.js": "/calendar-app/static/js/main.47cef4c6.js",
+    "static/js/453.441618f5.chunk.js": "/calendar-app/static/js/453.441618f5.chunk.js",
+    "index.html": "/calendar-app/index.html",
+    "main.75509cb6.css.map": "/calendar-app/static/css/main.75509cb6.css.map",
+    "main.47cef4c6.js.map": "/calendar-app/static/js/main.47cef4c6.js.map",
+    "453.441618f5.chunk.js.map": "/calendar-app/static/js/453.441618f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75509cb6.css",
-    "static/js/main.3a392231.js"
+    "static/js/main.47cef4c6.js"
   ]
 }
